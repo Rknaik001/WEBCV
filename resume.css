@@ -102,6 +102,7 @@ grid-template-columns: auto auto;
 grid-template-rows: repeat(5, auto);
     }
     .box{
+        width: 100vw;
         position: relative;
         }
       
